@@ -8,6 +8,7 @@
   },
   "files": [
     "/template/**/*",
+    "/template/.gitignore",
     "dependencies.json",
     "script.js",
     "template.config.js"
