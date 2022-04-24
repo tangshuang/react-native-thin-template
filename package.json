@@ -1,11 +1,17 @@
 {
   "name": "react-native-thin-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "tangshuang",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tangshuang/react-native-thin-template.git"
   },
+  "files": [
+    "/template/**/*",
+    "dependencies.json",
+    "script.js",
+    "template.config.js"
+  ],
   "homepage": "https://github.com/tangshuang/react-native-thin-template",
   "license": "MIT"
 }
